@@ -1,0 +1,5 @@
+/Users/Dan/Documents/Xamarin Projects/PebbleKitAll/PebbleKitAll/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Dan/Documents/Xamarin Projects/PebbleKitAll/PebbleKitAll/bin/Debug/PebbleKitAll.dll.mdb
+/Users/Dan/Documents/Xamarin Projects/PebbleKitAll/PebbleKitAll/bin/Debug/PebbleKitAll.dll
+/Users/Dan/Documents/Xamarin Projects/PebbleKitAll/PebbleKitAll/obj/Debug/PebbleKitAll.dll
+/Users/Dan/Documents/Xamarin Projects/PebbleKitAll/PebbleKitAll/obj/Debug/PebbleKitAll.dll.mdb

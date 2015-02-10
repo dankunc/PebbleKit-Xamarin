@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="PebbleKitAll/PebbleKitAll.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PebbleKitAll/PebbleVendor.linkwith.cs">
+    <Files>
+      <File FileName="PebbleKitAll/ApiDefinition.cs" Line="11" Column="11" />
+      <File FileName="PebbleKitAll/StructsAndEnums.cs" Line="1" Column="1" />
+      <File FileName="PebbleKitAll/obj/Release/ios/PebbleKitAll/PBDataLoggingServiceDelegate.g.cs" Line="31" Column="31" />
+      <File FileName="PebbleKitAll/PebbleKit.linkwith.cs" Line="115" Column="115" />
+      <File FileName="PebbleKitAll/PebbleVendor.linkwith.cs" Line="118" Column="118" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
